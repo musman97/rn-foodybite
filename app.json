@@ -1,0 +1,12 @@
+{
+  "name": "Foodybite",
+  "displayName": "Foodybite",
+  "expo": {
+    "name": "Foodybite",
+    "slug": "Foodybite",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
